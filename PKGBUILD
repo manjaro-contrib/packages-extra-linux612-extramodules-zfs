@@ -4,8 +4,8 @@
 _linuxprefix=linux612
 
 pkgname="${_linuxprefix}-zfs"
-pkgver=2.3.1
-pkgrel=17
+pkgver=2.3.2
+pkgrel=1
 pkgdesc='Kernel modules for the Zettabyte File System.'
 arch=('x86_64')
 url="http://zfsonlinux.org/"
